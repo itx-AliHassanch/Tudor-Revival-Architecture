@@ -7,13 +7,3 @@ Historically, **original Tudor architecture** grew in **England** during the **T
 The later rise of **revival styles** drew heavily from **European architectural traditions**; after **1893**, the **Columbian Exposition** in **Chicago** encouraged **American architectural traditions**, and by **1900**, **revival architecture** increasingly shared space with **modernist architecture** nationally.
 
 By the **early 20th century**, **Tudor Revival houses** reshaped **American neighborhoods**, especially around **1929**, as the **Eclectic Era** adapted **English architecture**, **historical forms**, and an **old English village** character for evolving suburban **residential architecture** today.
-
-**Heading**
-Tudor Revival Architecture
-
-**Remain Words Database**
-None
-
-**Total Words Count:** 0
-
-**Oversight:** None. All 36 semantic terms were used, and each paragraph contains exactly 35 words.
